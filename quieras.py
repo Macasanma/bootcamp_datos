@@ -1,1 +1,4 @@
-print("Hello, Anrau, 2 mas trees y ya")
+import streamlit as st
+
+st.title('hello macasama!')
+st.subheader('hello arnau')
